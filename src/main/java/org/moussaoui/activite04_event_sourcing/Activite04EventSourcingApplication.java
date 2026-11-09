@@ -10,4 +10,5 @@ public class Activite04EventSourcingApplication {
         SpringApplication.run(Activite04EventSourcingApplication.class, args);
     }
 
+
 }
